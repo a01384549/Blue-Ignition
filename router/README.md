@@ -56,4 +56,50 @@ Hay que seguir varios pasos antes de poder empezar a cortar una pieza
 - No cuenta con **"Dust shoe"**
 ![Detalles del router](img/machineSettings.png)
 
+5. Despues de cofirmar las configuraciones hay que conectar el _X-Controller_ del router a la computadora. Para esto usamos un cable de ***USB tipo B***
+![Vista de la pagina esperando la coneccion con el router](img/connectingXcarve.png)
+![Vista del X-Controller de frente](img/xControllerOff.jpeg)
+
+6. Una vez que se conecta la maquina, puede que aparezca este menu. Seleccionas la opcion de ***New Machine***
+
+![Vista de la pagina para seleccionar la opcion de New Machine](img/newMachine.png)
+
+7. Luego, hay que confirmar que la configuracion este correcta, para eso utilizamos los botones para mover el router en todos sus ejes y confirmar que funcione de manera correcta.
+
+![Vista de la pagina para confirmar los ejes](img/testAxis.png)
+![Vista del Router](img/moverEjes.jpeg)
+
+8. Una vez confirmado que los ejes se mueven de manera correcta, confirmas que todos esten funcionando y continuas.
+
+![Pantalla de confirmacion de los Ejes](img/confirmAxis.png)
+
+9. El router si cuenta con **"Homing Switches"**. Son switches que detectan cuando el taladro ha llegado a un extremo del eje y automaticamente lo detiene. 
+Despues de confirmar que si cuenta con switches, hay que asegurarse que en la secuencia de **"Homing"** todo salga bien.
+
+![Pagina para seleccionar la opcion de homing switches](img/homingConfirm.png)
+
+En el caso de alguna situacion con el router durante esta secuencia ***SE DEBE DETENER EL ROUTER TANTO EN LA PAGINA COMO EN EL PARO DE EMERGENCIA Y SOLUCIONAR EL PROBLEMA ANTES DE PROBAR DE NUEVO.***. 
+
+![Cuadro y boton donde se puede cancelar el proceso de homing](img/homingCancel.png)
+
+Una vez terminada la secuencia, el taladrio estaria posicionado en la esquina inferior izquierda.
+
+![Vista del router en persona una vez que la secuencia de homing haya terminado](img/homePosition.jpeg)
+
+10. El router ***NO*** cuenta con el **"Z-Probe"**. 
+
+![Imagen del sitio para confirmar si se cuenta con un Z-Probe](img/zProbe.png)
+
+11. Terminado el proceso de configuración, seleccionamos **"Finish"**. Para despues abrir el proyecto que ya se habia creado.
+
+![Boton para finalizar el setup](img/finishSetup.png)
+![Vista de la pagina para abrir un nuevo proyecto](img/openProject.png)
+
+- Dentro del proyecto encontramos varias herramientas las cuales se pueden dividir en 3 categorias:
+  - La barra de figuras
+  - La barra de menu
+  - La barra de corte
+
+![Alt text](img/projectView.png)
+
 ## Pasos para cortar
