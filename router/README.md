@@ -1,5 +1,9 @@
 # Instrucciones para Operar el Router
 
+## ***LEER TODAS LAS INSTRUCCIONES Y TENER SUPERVISION ANTES DE UTILIZAR EL ROUTER***
+
+---
+
 ## Primera vez usando el Router
 
 ### Requisitos
@@ -243,4 +247,39 @@ También hay que cambiar el tipo de ***Plunge*** a **Vertical**.
 5. Se da click en el boton de **"Raise the bit"** para levantar la punta del taladro, una vez que ya no este en contacto con el material, se enciende el taladro. ***VERIFICAR QUE EL TALADRO ESTE EN VELOCIDAD 1***
 
 ![Vista de easel para levantar el taladro](img/almostReady.png)
+![Switch de encendido del taladro](img/drillOnOff.jpeg)
+![Vista del taladro encendido](img/drillOn.jpeg)
+  Ya se puede confirmar que el taladro este prendido y luego se da click en ***"Carve!"*** 
+  ---
+  
+---
+  ## ***SIEMPRE HAY QUE SUPERVISAR EL ROUTER MIENTRAS ESTE CORTANDO.*** 
+  ---
+  ## ***CUALQUIER IMPERFECCIÓN DEL ROUTER MIENTRAS ESTE TRABAJANDO ES CAUSA DE DETENERLO Y ARREGLARLO.***
+  ---
+  ## ***EL PARO DE EMERGENCIA SOLO DETIENE LOS EJES DEL ROUTER Y NO EL TALADRO. UNA VEZ ACCIONADO EL PARO DE EMERGENCIA, CON MUCHO CUIDADO HAY QUE APAGAR EL TALADRO***
+  ---
+  ## ***SONIDOS, VIBRACIONES Y MOVIMIENTOS FUERA DE LO COMÚN SON CAUSA PARA DETENER EL ROUTER***
+  --- 
+  ## ***MANIPULAR LOS BITS/PUNTAS DEL TALADRO CON GUANTES PARA NO OCASIONAR CORTES A LA PERSONA QUE LO ESTE MANIPULANDO***
 
+  ---
+
+  - Vista de easel mientras el router esta trabajando
+  ![Vista de easel](img/cuttingViewEasel.png)
+  - Vista del router mientras esta trabajando
+  ![Vista del router](img/workingRouter.jpeg)
+
+6. Una vez que el router termine el corte lo primero que se debe hacer es **Apagar el taladro**. ***HAY QUE ASEGURARSE QUE EL ROUTER ESTE COMPLETAMENTE DETENIDO***
+
+7. En easel se mostrara una pantalla en la cual se puede mover el router. Esto ayuda a que no estorbe a la hora de desmontar la pieza y removerla
+
+![Alt text](img/finishedView.png)
+
+8. Se remueven los materiales de sujeción y se retira la pieza. ***LOS MATERIALES DE SUJECIÓN DEBEN DE IR GUARDADOS EN SU LUGAR***
+
+9. Se apaga el router y se limpia el area del trabajo
+
+Vista de la pieza terminada
+![Final del corte](img/finishedCut.jpeg)
+![Pieza Finalizada](img/tabImg.jpeg)
