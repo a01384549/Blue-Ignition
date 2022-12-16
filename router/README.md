@@ -202,3 +202,45 @@ También hay que cambiar el tipo de ***Plunge*** a **Vertical**.
   - Si el bit montado es el correcto para el material, se hace click en ***"Confirm"***.
 
   - Si no es el bit correcto hay que cambiarlo. El primer paso es levantar el taladro con los controles que se encuentran en la parte derecha. Se mueve el eje ***"Z"*** hacia arriba hasta tener suficiente espacio para maniobrar. 
+
+  ![Vista del taladro frontal](img/frontViewPre.jpeg)
+
+  - El taladro en la punta cuenta con una rosca, para desenroscarla hay que mantener presionado un boton en el costado del taladro y luego girar.
+
+  ![Vista del taladro costado](img/sideViewPre.jpeg)
+
+  - Una vez desenroscada nos encontramos con las piezas que conforman la punta.
+
+  ![Bit assembly](img/bitAssemblyPre.jpeg)
+  ![Alt text](img/bitAssemblyParts.jpeg)
+
+  - Se cambia la punta por la deseada y se inserta el el adaptador de 1/8" a 1/4".
+
+  ![Alt text](img/bitAssemblyStep1.jpeg)
+
+  - Luego se inserta en la rosca del taladro. Se enrosca en el taladro y luego se mantiene presionado el boton del costado para apretar de manera correcta.
+
+  ### ***LA PUNTA TIENE QUE ESTAR CORRECTAMENTE ASEGURADA. SI LA PUNTA SE ENCUENTRA SUELTA SE PUEDE LLEGAR A CAER DURANTE OPERACIÓN Y DAÑAR EL ROUTER***
+
+  ![Punta del taladro completa](img/bitAssemblyFinished.jpeg)
+  ![Vista de costado del taladro](img/sideViewPost.jpeg)
+  ![Vista frontal del taladro](img/frontViewPost.jpeg)
+
+4. Luego se posiciona el taladro en ***"Zero" o "Posición Zero"***. Para esto se usan los controles del lado derecho para posicionar el punto inicial de router.
+
+![Vista de Confirmar Work Zero](img/confirmZero.png)
+
+  - Movemos el router a la esquina inferior izquierda. Nos imaginamos el cuadro del espacio que va a tomar la pieza como en la siguiente imagen. ***Hay que asegurarse que en router no vaya a pasar sobre alguno de los materiales de sujeción o algun otro objeto que obstuya el paso***
+
+  ![Router en posicion de Home](img/routerXYZero.png)
+
+  - Hay que bajar el taladro hasta que la punta o el bit este en contacto con el material. 
+
+  ![Punta del router tocando el material](img/routerZZero.jpeg)
+
+  - Una vez que el taladro este en contacto con el material se hace click en ***"Confirm"***.
+
+5. Se da click en el boton de **"Raise the bit"** para levantar la punta del taladro, una vez que ya no este en contacto con el material, se enciende el taladro. ***VERIFICAR QUE EL TALADRO ESTE EN VELOCIDAD 1***
+
+![Vista de easel para levantar el taladro](img/almostReady.png)
+
